@@ -1,0 +1,82 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .classpath
+#	new file:   .project
+#	new file:   .settings/org.eclipse.jdt.core.prefs
+#	new file:   bin/.classpath
+#	new file:   bin/.project
+#	new file:   bin/.settings/org.eclipse.jdt.core.prefs
+#	new file:   bin/Assignment3/BoundingBox.class
+#	new file:   bin/Assignment3/Polygon.class
+#	new file:   bin/Assignment3/ReaderOfFiles.class
+#	new file:   bin/Assignment3/Renderer$1.class
+#	new file:   bin/Assignment3/Renderer$2.class
+#	new file:   bin/Assignment3/Renderer$3.class
+#	new file:   bin/Assignment3/Renderer$4.class
+#	new file:   bin/Assignment3/Renderer$5.class
+#	new file:   bin/Assignment3/Renderer$6.class
+#	new file:   bin/Assignment3/Renderer$7.class
+#	new file:   bin/Assignment3/Renderer$8.class
+#	new file:   bin/Assignment3/Renderer.class
+#	new file:   bin/Assignment3/Transform.class
+#	new file:   bin/Assignment3/Vector3D.class
+#	new file:   bin/META-INF/MANIFEST.MF
+#	new file:   bin/modelCode/ImageSample$1.class
+#	new file:   bin/modelCode/ImageSample$2.class
+#	new file:   bin/modelCode/ImageSample$3.class
+#	new file:   bin/modelCode/ImageSample$4.class
+#	new file:   bin/modelCode/ImageSample$5.class
+#	new file:   bin/modelCode/ImageSample$6.class
+#	new file:   bin/modelCode/ImageSample.class
+#	new file:   data/ball.png
+#	new file:   data/ball.txt
+#	new file:   data/bigboxes.png
+#	new file:   data/bigboxes.txt
+#	new file:   data/car.png
+#	new file:   data/car.txt
+#	new file:   data/monkey.png
+#	new file:   data/monkey.txt
+#	new file:   data/shapes.png
+#	new file:   data/shapes.txt
+#	new file:   data/tetras.png
+#	new file:   data/tetras.txt
+#	new file:   src/.classpath
+#	new file:   src/.project
+#	new file:   src/.settings/org.eclipse.jdt.core.prefs
+#	new file:   src/Assignment3/BoundingBox.class
+#	new file:   src/Assignment3/BoundingBox.java
+#	new file:   src/Assignment3/Polygon.class
+#	new file:   src/Assignment3/Polygon.java
+#	new file:   src/Assignment3/ReaderOfFiles.class
+#	new file:   src/Assignment3/ReaderOfFiles.java
+#	new file:   src/Assignment3/Renderer$1.class
+#	new file:   src/Assignment3/Renderer$2.class
+#	new file:   src/Assignment3/Renderer$3.class
+#	new file:   src/Assignment3/Renderer$4.class
+#	new file:   src/Assignment3/Renderer$5.class
+#	new file:   src/Assignment3/Renderer$6.class
+#	new file:   src/Assignment3/Renderer$7.class
+#	new file:   src/Assignment3/Renderer$8.class
+#	new file:   src/Assignment3/Renderer.class
+#	new file:   src/Assignment3/Renderer.java
+#	new file:   src/Assignment3/Transform.class
+#	new file:   src/Assignment3/Transform.java
+#	new file:   src/Assignment3/Vector3D.class
+#	new file:   src/Assignment3/Vector3D.java
+#	new file:   src/META-INF/MANIFEST.MF
+#	new file:   src/modelCode/ImageSample$1.class
+#	new file:   src/modelCode/ImageSample$2.class
+#	new file:   src/modelCode/ImageSample$3.class
+#	new file:   src/modelCode/ImageSample$4.class
+#	new file:   src/modelCode/ImageSample$5.class
+#	new file:   src/modelCode/ImageSample$6.class
+#	new file:   src/modelCode/ImageSample.class
+#	new file:   src/modelCode/ImageSample.java
+#
+
